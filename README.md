@@ -1,7 +1,8 @@
 # CO2 Emission Prediction for Vehicles
 
 ## Description
-* The project focuses on predicting the amount of Carbon dioxide emitted by vehicles using various **Machine Learning** algorithms.<br>
+* The project focuses on predicting the amount of carbon dioxide emitted by vehicles using various **Machine Learning** algorithms.<br>
+* The prediction will allow vehicle manufacturers have an idea about the amount of carbon dioxide emitted by the yet to be manufactured vehicles in future and manufacture them prudently.
 <hr>
 
 ## Additional details
