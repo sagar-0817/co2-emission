@@ -17,5 +17,5 @@
 
 * You can also view the notebook on [Google Colab](https://colab.research.google.com) where you can run the notebook and make changes if you want without downloading
 the notebook to your local system.
-  * **co2-emission-prediction.ipynb** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com) 
+  * **co2-emission-prediction.ipynb** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sDLC4mtuqs0X86P6YFczu1fgFb4687SQ?usp=sharing) 
 
