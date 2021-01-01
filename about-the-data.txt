@@ -1,0 +1,47 @@
+The column details are:
+
+MAKE - manufacturer name of the vehicle
+
+MODEL - model name of the vehicle
+
+VEHICLE CLASS - class of the vehicle like COMPACT, MID-SIZE, SUV and so on.
+
+ENGINE SIZE (L) - the size of the engine in terms of the amount of fuel (in litres) the engine can hold
+
+CYLINDERS - number of cylinders in the vehicle
+
+FUEL CONSUMPTION CITY (L/100) - the amount of fuel (in litres) the vehicle consumes on city roads per 100km
+
+FUEL CONSUMPTION HWY (L/100) - the amount of fuel (in litres) the vehicle consumes on highway roads per 100km
+
+FUEL CONSUMPTION COMB (L/100) - the amount of fuel (in litres) the vehicle consumes on city roads and highway roads
+                                combinedly per 100 km (55% city + 45% highway) 
+
+FUEL CONSUMPTION COMB (mpg) - the amount of fuel the vehicle consumes on city roads and highway roads
+                              combinedly in miles per gallon (55% city + 45% highway) 
+
+CO2 EMISSIONS (g/km) - the amount of carbon dioxide (in grams) emitted by the vehicle on city roads and highway roads
+                       combinedly per km (55% city + 45% highway)
+
+
+Understanding the values in some of the columns:
+
+MODEL : 4WD/4X4 = Four-wheel drive, AWD = All-wheel drive, FFV = Flexible-fuel vehicle,
+	SWB = Short wheelbase, LWB = Long wheelbase, EWB = Extended wheelbase
+
+TRANSMISSION : A = Automatic, AM = Automated manual, AS = Automatic with select shift,
+	       AV = Continuously variable, M = Manual, 3-10 = Number of gears
+
+FUEL TYPE : X = Regular gasoline, Z = Premium gasoline, D = Diesel,
+	    E = Ethanol (E85), N = Natural Gas
+
+
+IMPORTANT NOTE : 
+ 
+From model year 2015, vehicle manufacturers are using an improved testing procedure to determine the fuel consumption ratings of
+new light-duty vehicles. The Government of Canada-approved new test methods that are more representative of typical driving conditions
+and styles. The new test methods (5-cycle testing) supplement the standard (2-cycle) city and highway tests by integrating
+three additional test cycles that account for air conditioner use, cold temperature operation, rapid acceleration and braking.
+The new 5-cycle testing results in higher fuel consumption ratings that are more representative of a vehicle’s on-road 
+fuel consumption compared to the old ratings. To help you compare vehicles from different model years, the ratings for
+1995-2014 vehicles have been adjusted to reflect the improved testing.
